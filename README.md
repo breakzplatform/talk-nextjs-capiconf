@@ -1,4 +1,5 @@
 # TibiaConf
+https://capiconf.breakzplatform.now.sh
 
 Website criado durante palestra sobre Next.js na CapiConf'19. Para executar basta executar os seguintes comandos:
 
